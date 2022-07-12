@@ -14,7 +14,7 @@ on:
 
 jobs:
   sonarcloud:
-    name: SonarCloud
+    name: SonarCloud scan for SAST 
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
