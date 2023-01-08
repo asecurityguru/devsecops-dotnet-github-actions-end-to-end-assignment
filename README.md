@@ -1,1 +1,1 @@
-# End to End DevSecOps Pipeline for .NET/C# project Modified by Harry from A Security Guru
+# End to End DevSecOps Pipeline for .NET/C# project Modified by A Security Guru
